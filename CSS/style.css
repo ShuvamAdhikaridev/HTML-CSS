@@ -17,3 +17,21 @@ body {
 button {
   background-color: yellowgreen;
 }
+
+/* RGB= Red, Green Blue */
+
+.box {
+  background-color: blue;
+}
+
+.heading {
+  color: red;
+}
+
+.button {
+  background-color: green;
+}
+
+p {
+  text-align: center;
+}
