@@ -1,4 +1,4 @@
-/* h1 {
+/* /* h1 {
   color: red;
 } */
 
@@ -6,30 +6,30 @@
   color: red;
 } */
 
-button {
+/* button {
   color: red;
-}
+} */
 
 /* body {
   background-color: black;
 } */
-
+/* 
 button {
   background-color: yellowgreen;
-}
+} */
 
 /* RGB= Red, Green Blue */
-
+/* 
 .box {
   background-color: blue;
-}
+} */
 
 /* .heading {
   color: red;
 } */
 
-.button {
-  background-color: green;
+/* .button { */
+/* background-color: green;
 }
 
 p {
@@ -55,6 +55,7 @@ a {
 #h4 {
   font-weight: 900;
 }
+*/
 
 /* #two {
   font-family: arial;
@@ -66,6 +67,8 @@ a {
 
 #one {
   font-size: 25px;
+  line-height: 50px;
+  text-transform: uppercase;
 }
 
 #three {
