@@ -2,9 +2,9 @@
   color: red;
 } */
 
-p {
+/* p {
   color: red;
-}
+} */
 
 button {
   color: red;
@@ -56,10 +56,18 @@ a {
   font-weight: 900;
 }
 
-#two {
+/* #two {
   font-family: arial;
 }
 
 #one {
   font-family: "Segoe UI", "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+} */
+
+#one {
+  font-size: 25px;
+}
+
+#three {
+  font-size: 10px;
 }
