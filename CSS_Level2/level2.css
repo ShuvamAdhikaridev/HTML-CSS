@@ -49,5 +49,6 @@ div {
 }
 
 #box2 {
-  display: none;
+  /* display: none; */
+  visibility: hidden;
 }
