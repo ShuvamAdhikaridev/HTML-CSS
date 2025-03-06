@@ -39,16 +39,37 @@ button {
   display: block;
 } */
 
-div {
+.boxOne {
   width: 100px;
   height: 100px;
   margin: 25px;
   padding: 25px;
   /* display: inline; */
   display: inline-block;
+  background-color: rgba(0, 0, 255, 0.1);
 }
 
-#box2 {
+/* #box2 {
   /* display: none; */
-  visibility: hidden;
+/* visibility: hidden;
+} */
+
+.boxTwo {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+  /* display: inline; */
+  display: inline-block;
+  background-color: rgba(0, 0, 255, 0.5);
+}
+
+.boxThree {
+  width: 100px;
+  height: 100px;
+  margin: 25px;
+  padding: 25px;
+  /* display: inline; */
+  display: inline-block;
+  background-color: rgba(0, 0, 255, 1);
 }
