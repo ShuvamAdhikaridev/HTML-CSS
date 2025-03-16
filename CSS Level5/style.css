@@ -14,17 +14,20 @@ div {
   transition-delay: 1s;
   transition: all 2s ease-in 1s; */
 
-  cursor: pointer;
+  /* cursor: pointer; */
+  /* transform: scale(2); */
+  transition: all 2s ease-in 0s;
 }
 
 div:hover {
-  background-color: aqua;
+  /* background-color: aqua;
   color: white;
-  font-size: 20px;
+  font-size: 20px; */
+  transform: scale(2);
 }
 
 div:active {
   background-color: yellow;
-  transition-duration: 5s;
-  transform: rotate(360deg);
+  /* transition-duration: 5s; */
+  /* transform: rotate(360deg); */
 }
