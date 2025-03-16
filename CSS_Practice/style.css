@@ -107,7 +107,7 @@ li {
   display: inline;
 } */
 
-ul {
+/* ul {
   background-color: pink;
   display: flex;
   justify-content: space-evenly;
@@ -120,7 +120,7 @@ a {
 
 li {
   list-style-type: none;
-  /* background-color: #fff; */
+  background-color: #fff;
 }
 
 .outer {
@@ -136,4 +136,4 @@ li {
   height: 100px;
   width: 100px;
   background-color: darkorchid;
-}
+} */
