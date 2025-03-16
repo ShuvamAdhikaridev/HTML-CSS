@@ -23,7 +23,8 @@ div:hover {
   /* background-color: aqua;
   color: white;
   font-size: 20px; */
-  transform: scale(2);
+  /* transform: scale(2); */
+  transform: translate(100px, 200px);
 }
 
 div:active {
